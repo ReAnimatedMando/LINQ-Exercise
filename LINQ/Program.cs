@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var videoGames = new string[] { "Silent Hill", "Call of Duty", "Elden Ring", "Bioshock", "Little Nightmares" };
+            
         }
     }
 }
